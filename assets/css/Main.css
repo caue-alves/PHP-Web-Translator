@@ -1,0 +1,39 @@
+@font-face {
+    font-family: Handel Gothic;
+    src: url('../fonts/handel-gothic.otf')
+}
+
+h1, h2 {
+    text-align: center;
+    padding: 0.5em;
+}
+
+h1 {
+    font-family: Handel Gothic;
+    font-size: 50px;
+}
+
+h2 {
+    color: gray;
+    font-family: Handel Gothic;
+}
+
+#url {
+    height: 70px;
+    width: 500px;
+    margin-bottom: 1em;
+    border-radius: 40px;
+    padding: 0.5em;
+}
+
+#but {
+    height: 40px;
+    width: 100px;
+    border-radius: 40px;
+    transition: all 0.5s;
+    padding: 0.5em;
+}
+
+#but:hover{
+    border-radius: 0px;
+}

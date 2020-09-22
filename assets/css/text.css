@@ -1,0 +1,37 @@
+@font-face {
+    font-family: Handel Gothic;
+    src: url('../fonts/handel-gothic.otf')
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+h1 {
+    font-family: Handel Gothic;
+    font-size: 50px;
+    color: white;
+    padding: 0.5em;
+}
+
+h2 {
+    color: gray;
+    font-family: Handel Gothic;
+    padding-bottom: 0.5em;
+}
+
+p {
+    font-family: Handel Gothic;
+}
+
+span{
+    font-family: Handel Gothic;
+    color: red;
+    font-size: 50px;
+    text-align: center;
+    padding: 0.5em;
+}
+
+.all{
+    background-color: #5200FF;
+}
